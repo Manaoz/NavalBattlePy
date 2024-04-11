@@ -14,7 +14,7 @@ This repository contains a Python Battleship game implementation featuring strat
 ## Repository Structure:
 - `player1.py`: Contains functions for player 1.
 - `player2.py`: Contains functions for player 2.
-- `board.py`: Defines the Board class to represent the game board.
+- `board.py`: Defines functions for ship positioning on the board..
 - `main.py`: Main file to run the game.
 
 
